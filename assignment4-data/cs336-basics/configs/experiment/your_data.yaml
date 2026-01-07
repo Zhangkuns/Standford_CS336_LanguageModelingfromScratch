@@ -1,0 +1,14 @@
+# @package _global_
+
+paths:
+  # Set to your data, tokenized with GPT-2 tokenizer!
+  train_bin: /workspace/CS336/LAB/assignment4-data/data/train_data.bin
+
+  # The validation set which we have already tokenized with GPT-2 tokenizer, don't change this!
+  valid_bin: /workspace/CS336/LAB/assignment4-data/data/paloma_valid.bin
+  
+  model_output: output/model
+
+training:
+  wandb_entity: 1412060305-wuhan-university  # Set to your wandb entity, e.g. pliang
+  wandb_project: cs336-assignment4-leaderboard

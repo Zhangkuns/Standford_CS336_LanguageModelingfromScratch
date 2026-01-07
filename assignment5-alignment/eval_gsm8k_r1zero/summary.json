@@ -1,0 +1,29 @@
+{
+  "model": "Qwen/Qwen2.5-Math-1.5B",
+  "prompt_path": "/home/zks/Disk/2025FirstSemester/CS336LargeLanguageModel/LAB/assignment5-alignment/cs336_alignment/prompts/r1_zero.prompt",
+  "dataset": "openai/gsm8k:main",
+  "split": "test",
+  "max_examples": -1,
+  "sampling": {
+    "temperature": 0.0,
+    "top_p": 1.0,
+    "max_tokens": 512,
+    "seed": 42
+  },
+  "metrics": {
+    "n": 1319,
+    "format_rate": 0.5041698256254739,
+    "answer_accuracy": 0.17134192570128887,
+    "reward_mean": 0.17134192570128887,
+    "counts": {
+      "format=1 answer=1": 226,
+      "format=1 answer=0": 439,
+      "format=0 answer=0": 654,
+      "format=0 answer=1": 0
+    }
+  },
+  "output_files": {
+    "results_jsonl": "./eval_gsm8k_r1zero/results.jsonl",
+    "summary_json": "./eval_gsm8k_r1zero/summary.json"
+  }
+}

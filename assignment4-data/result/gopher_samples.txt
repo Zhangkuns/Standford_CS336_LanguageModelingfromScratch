@@ -1,0 +1,665 @@
+Scanning ./data/CC-MAIN-20250417135010-20250417165010-00065.warc...
+
+Evaluating Gopher Quality Filter on 20 random samples.
+
+--- SAMPLE 1 [REJECTED] ---
+Stats: Length=59 words
+CONTENT: Ferrovie a Scartamento Ridotto per Railworks
+
+Passa al contenuto
+
+  • Collegamenti Rapidi
+  • FAQ
+  • Login
+  • Indice
+
+Login
+
+Ho dimenticato la password
+ 
+ 
+  • Indice
+  • Tutti gli orari sono UTC+02:00
+  • Cancella cookie
+  • Contattaci
+*Original Author: Brad Veryard
+*Updated to 3.2 by MannixMD
+
+Powered by phpBB® Forum Software © phpBB Limited
+
+Traduzione Italiana phpBB-Store.it
+
+Privacy | Condizioni
+
+ 
+
+ 
+--------------------------------------------------
+
+--- SAMPLE 2 [KEPT] ---
+Stats: Length=56 words
+CONTENT: Pasty Gallery
+
+pasty.com
+
+  • Home
+  • Login
+  • Album list
+    • Last uploads
+    • Last comments
+    • Most viewed
+    • Top rated
+    • My Favorites
+  • Search
+Enter your username and password to login
+Warning your browser does not accept script's cookies
+Username
+Password
+I forgot my password
+Missed activation link?
+
+Powered by Coppermine Photo Gallery
+--------------------------------------------------
+
+--- SAMPLE 3 [REJECTED] ---
+Stats: Length=217 words
+CONTENT: 福岡のシステム開発ｰソフトウェア開発
+
+  • 092-512-5600
+    0120-835-023パソコンのオニーサン
+  • 受付時間 9:30～18:30
+    (土・日・祝除く)
+  • HOME
+  • 製品・サービス
+    • 製品･サービス一覧
+    • AI-OCR(受注業務･他)
+      • 01:AI-OCR タイプSS/SE/F
+    • AI-音声入力
+      • 11:AI-音声入力
+      • 12:CTI+音声認識
+    • RPA･ﾘﾝｸﾃｸﾉﾛｼﾞ
+      • 21:シンプルRPA
+      • 22:中小企業向けRPA
+   ...
+... お問い合わせ
+
+    LINEでお問い合わせ
+
+    LINEでお問い合わせ
+    Copyright (C) Anthnet. All Rights Reserved.
+    Back To Top
+    Choose Your Color
+    株式会社アンソネット
+    【福岡本社】
+    〒815-0041 福岡市南区野間4丁目9-24
+    （TEL）092-512-5600
+    （FAX）092-401-5601
+    求人広告
+    よりよいエクスペリエンスを提供するため、当ウェブサイトでは Cookie を使用しています。OKいいえプライバシーポリシー
+--------------------------------------------------
+
+--- SAMPLE 4 [REJECTED] ---
+Stats: Length=347 words
+CONTENT: Androbiz | Androidアプリのレビューサイト
+
+Androbiz（アンドロビズ）では、「面白いAndroidアプリ」、「便利なAndroidアプリ」などなど、実際に使用してレビューしています。
+レビューページには、QRコードがありアンドロイド端末で読み取ることでGoogle Play（アンドロイドマーケット）のインストールページに移動できます。PC版Google Play（アンドロイドマーケット）へのリンクもありますので、PC上からアプリをインストールすることもできます。
+  • Home
+  • ゲーム
+  • ビジネス
+  • ツール
+  • エンタメ
+  • 学習・教育
+H ...
+...   定期的にメモリ開放が行える
+    Advanced Task Killer
+  •   無料
+    KTPocketLaunch2ステータスバーからアプリ一覧を表示
+    よく使うアプリが上位に来るので、かなり便利
+    KTPocketLaunch2
+  •   無料
+    Kanji Recognizer本を読んでいて、読めない漢字があれば
+    手書きで漢字が認識できる、このアプリが便利
+    Kanji Recognizer
+プライバシーポリシー | サイトポリシー
+Copyright(c) 2011 Androbiz.com All Rights Reserved.
+--------------------------------------------------
+
+--- SAMPLE 5 [REJECTED] ---
+Stats: Length=2080 words
+CONTENT: ﻿ Should FFD avoid combat or not?
+
+Aurora 4x
+
+*
+4X for Ever
+  • Posts: Recents.
+Welcome, Guest. Please login or register.
+
+Login with username, password and session length
+ 
+
+  • Changes
+  • Home
+  • Help
+  • Search
+  • Posts
+    • Recents
+  • Calendar
+  • Staff List
+  • Login
+  • Register
+
+  • Auro ...
+... t or not?
+ 
+
+It appears that you have not registered with Aurora 4x. To register, please click here...
+There was an error while thanking
+Thanking...
+  • SMF 2.0.19 | SMF © 2020, Simple Machines
+    Enotify by CreateAForum.com
+  • XHTML
+  • RSS
+  • WAP2
+
+Page created in 0.214 seconds with 39 queries.
+--------------------------------------------------
+
+--- SAMPLE 6 [REJECTED] ---
+Stats: Length=1432 words
+CONTENT: Inside the mind of a Bibliophile
+  • Home
+  • About
+    • About Me
+    • Review Policy
+  • Reading Related
+    • Reading Challenges
+    • Fellow Bibliophiles
+    • The Ones Behind the Books
+  • Writing and Misc.
+    • NaNoWriMo
+    • Links to the Outside World
+  • Me Around the Web
+    • With love f ...
+... e Body in the Li...
+  • The Darkening Web by Alexander Klimburg
+    This book feels like something that I might have been made to read in one of my tutorials, which is probably why I requested it from Netga...
+Follow Me on Pinterest
+
+Reading Challenges
+
+Reading Challenges
+Google+
+Powered by Blogger.
+--------------------------------------------------
+
+--- SAMPLE 7 [REJECTED] ---
+Stats: Length=197 words
+CONTENT: Bebefon - Всичко за семейството
+Форум > Общ раздел > Шопинг терапия >
+
+03aknzjz
+
+Дискусия в 'Шопинг терапия' започната от Charlesvet, 26/10/18.
+
+  1. Charlesvet
+
+    Charlesvet Добре познат потребител
+
+    Регистрация:
+    6/8/18
+    Мнения:
+    19,946
+    wh0cd218519 prednisolone vardenafil generic ...
+...     • Последна активност
+    • Нови профилни публикации
+  • Обяви
+  • Калкулатори
+  • Тестове
+  • Menu
+Търсене
+
+Разделете имената с запетая.
+
+Полезни търсения
+
+  • Последните публикации
+Още...
+  • Контакти
+  • Помощ
+  • Начало
+  • Най-отгоре
+  • RSS
+Forum software by XenForo™ ©2010-2015 XenForo Ltd.
+--------------------------------------------------
+
+--- SAMPLE 8 [KEPT] ---
+Stats: Length=487 words
+CONTENT: 21520cvbeixcvb10319367
+
+Betting Casinos
+
+I bet youll do the monkey dance if you spin many monkeys at the beginning of the free spins, betting casinos BC.Game features a cool collection of 25 provably fair games. You will receive one free re-spin whenever the wild logo appears on the reels, the latte ...
+... h of mediocre releases. Unique Casino definitely has a great mix of exciting games, where it is just you against the dealer – so you can play more hands in less time than it would usually take in a b&m casino. In the table below, they may have made this a bluff or a value bet.
+
+© Online Casinos 2021
+--------------------------------------------------
+
+--- SAMPLE 9 [REJECTED] ---
+Stats: Length=1506 words
+CONTENT: Photos araignées insectes fleurs henri maleysson
+
+La vie de la nature
+
+Bonjour.
+Si vous vous êtes égaré ici , sachez que cet espace n'a pour but que de partager quelques photos de mes émerveillements devant toute la diversité
+offerte par dame nature et que l'on peut rencontrer à deux pas de sa porte ...
+... )
+  • Mézenc (6)
+  • Minéraux (1)
+  • Monuments (3)
+  • Morbihan (2)
+  • Neige (6)
+  • Nuit (5)
+  • orchidées (4)
+  • Paysages (19)
+  • Prêles (1)
+  • Programme (3)
+  • Pyrénées. (3)
+  • Tourisme (10)
+  • Village (11)
+  • Voeux (12)
+
+Nombre total de pages vues
+Thème Awesome Inc.. Fourni par Blogger.
+--------------------------------------------------
+
+--- SAMPLE 10 [REJECTED] ---
+Stats: Length=456 words
+CONTENT: Registration and Abstract Submission Open for
+GBCC2025: Joint Galaxy/Bioconductor Conference
+Early registration discount pricing ends March 31!
+
+Bioconductor home
+About Learn Packages Developers
+Search icon
+Get Started
+Menu
+  • Home
+  • Bioconductor 3.21
+  • Experiment Packages
+  • HMP16SData (devel ...
+... kages Install Bioconductor Packages Update Bioconductor Packages Docker Images Bioconductor in AnVIL Bioconductor Packages
+
+Contact us: support.bioconductor.org
+Copyright © 2003 - 2025 Bioconductor
+
+Slack Logo YouTube Logo LinkedIn Logo Bluesky Logo Mastodon Logo Blog Logo
+BioConductor Logo in White
+--------------------------------------------------
+
+--- SAMPLE 11 [KEPT] ---
+Stats: Length=153 words
+CONTENT: APISRED
+
+lunes, 16 de septiembre de 2013
+
+Estudiantes del SENA del Curso "Tecnologo en gestion comercial de servicios" desarrollan proyecto en Apisred.
+
+Los estudiantes Michael Yurani Peña, Karen Vanegas, Tatiana Dussan, Lina Piñeros y Andres Manrrique nos visitaron con el fin de avanzar en su proye ...
+... rest
+Entrada más reciente Entrada antigua Inicio
+
+Prueba
+
+CURSOS Y ENLACES DE INTERES
+
+  • APICULTURA EN COLOMBIA - SITIO OFICIAL
+  • ABELHAS DO BRAZIL - ABEJAS SIN AGUIJON
+  • CURSO APICULTURA UNIVERSIDAD NACIONAL MEDELLIN
+
+Visitas:
+
+APISRED S.A.S. Tema Picture Window. Con la tecnología de Blogger.
+--------------------------------------------------
+
+--- SAMPLE 12 [REJECTED] ---
+Stats: Length=172 words
+CONTENT: AC Feldatal 1974 e.V.
+
+AC Feldatal 1974 e.V.
+
+Suchen
+Zum Inhalt springen
+  • Kalender
+  • VEREIN
+    • Der Vorstand
+    • Für Mitglieder
+    • Jugendgruppe
+    • Mitglied werden
+  • ANGELN
+    • Hessische Fischereiverordnung HFischV
+    • Schonzeiten, Maße
+    • Der Weg zu uns
+    • Umgebung
+    • U ...
+... tt
+
+"Angeln in Feall"
+
+Archiv
+
+April 2025
+M D M D F S S
+ 123456
+78910111213
+14151617181920
+21222324252627
+282930  
+« Feb.    
+
+Fischerei
+
+  • Deutscher Angelfischerverband e.V.
+  • Verband Hessischer Fischer e.V.
+
+Vogelsberg
+
+  • Gemeinde Feldatal – Das Tal der Mühlen
+Stolz präsentiert von WordPress
+--------------------------------------------------
+
+--- SAMPLE 13 [REJECTED] ---
+Stats: Length=176 words
+CONTENT: Salta al contenuto
+aperTO
+  • Dataset
+  • Gruppi
+  • Storie
+  • FAQ
+  1. Home
+  2. Dataset
+
+Organizzazioni
+
+  • Comune di Torino - 1
+
+Gruppi
+
+  • Economia e Finanza - 1
+  • Governo e Pubblica ... - 1
+  • Tutti - 1
+
+Tag
+
+  • 2019 - 1
+  • bilancio - 1
+  • economia - 1
+  • PEG - 1
+
+Formati
+
+  • PDF - 1 ...
+...  2019.
+    • 4384
+    • 8
+    • PDF
+E' possibile inoltre accedere al registro usando le API (vedi Documentazione API).
+  • Informazioni aperTO
+  • Utilizzo del sito
+  • Licenze OpenData  
+  • Condizioni d'uso e privacy
+  • CKAN API
+  • CKAN Association
+  • Open Data
+
+Powered by CKAN and GeoSolutions
+--------------------------------------------------
+
+--- SAMPLE 14 [REJECTED] ---
+Stats: Length=74 words
+CONTENT: MITBDT Logo
+  • About
+  • Join
+  • MIT Open Comp
+  • Photos
+  • Results
+  • Alumni
+  • Giving
+  • Performances
+  • Contact Us
+
+
+
+Login Register
+MIT Ballroom Dance Team Photo Albums
+
+User Options
+
+  • Login
+  • Register
+
+Register As New User
+
+Username (required)
+
+Full Name (required)
+
+Email Address (required)
+
+Password (required)
+
+Verify Password (required)
+
+Massachusetts Institute of Technology
+  • Site RSS Feed: RSS Feed
+  • MITBDT is a 501(c)3 organization
+  • Contact the Webmaster
+--------------------------------------------------
+
+--- SAMPLE 15 [KEPT] ---
+Stats: Length=98 words
+CONTENT:   • 网站首页
+  • 医院介绍
+    绍兴概况 医院概况 医院历史 基地/工作站 领导致辞 领导介绍 组织结构 医院环境 高新设备 医院荣誉 执业信息
+  • 新闻中心
+    医院动态 媒体报道
+  • 医疗服务
+    科室介绍 专家荟萃 特色诊疗 就医指南 预约挂号 查询服务 专家咨询 健康教育 专家门诊
+  • 护理园地
+    护理团队 护理动态 优质护理 天使文苑 护理科普
+  • 科研教学
+    重点学科 规培中心 科研成果 医学教学 论文发表 表格下载 GCP专栏
+  • 院务公开
+    医院公告 收费标准 行风建设 规章制度 阳光用药 廉政文化 床位信息
+  • 医 ...
+... 医院视频 职工摄影 人事招聘
+  • 党建在线
+    党纪党规 高层声音 两学一做 党建动态 党务公开
+  • 专题专栏
+    医联体专栏 医院重点工作计划 创建“优质医院” “三好一满意”活动 公共卫生服务
+党建在线
+党纪党规
+高层声音
+两学一做
+党建动态
+党务公开
+您现在所在位置：首页 党建在线 党建动态 党建动态
+  • 我为“七一”添光彩 百场千医大型义诊活动2021-06-24
+
+绍兴市越城区皋埠街道社区卫生服务中心  版权所有  地址：浙江省绍兴市越城区皋埠镇银兴路 联系电话：0575-88756599 备案号： 浙ICP备15013313号 技术支持：台州华顶网络技术有限公司
+--------------------------------------------------
+
+--- SAMPLE 16 [REJECTED] ---
+Stats: Length=267 words
+CONTENT: EN | RU    
+Издательство научно-технической литературы
+Поиск по сайту:
+
+На главную»
+
+Контакты»
+
+Журналы»
+
+Новости»
+
+Оформление статей»
+
+Реклама в журналах»
+
+Обратная связь»
+
+Книги»
+
+О фирме»
+
+
+
+ реклама
+
+
+
+Промышленные АСУ и контроллеры
+
+Аннотация к статье
+<< Назад
+Комбинаторный анализ обобщенной сх ...
+... onica и ElectronTechExpo 2018: рост площади экспозиции на 19% и новые формы контент-программы
+
+Тематика и состав экспозиции РЭП на выставке "ChipEXPO - 2018"
+   Rambler's Top100 Rambler's Top100         
+
+
+    Система управления разработана в: ananskikh.ru
+© Издательство "НАУЧТЕХЛИТИЗДАТ", 2005-2025
+--------------------------------------------------
+
+--- SAMPLE 17 [REJECTED] ---
+Stats: Length=314 words
+CONTENT: Aller au contenu
+
+ASKMENTON 2025
+
+2021
+
+2021
+
+Expandmenu Shrunk
+
+Navigation Principale
+
+  • Accueil
+  • ARTICLES DE PRESSE
+  • LES LIENS
+  • LES MEMBRES DU BUREAU
+  • LES PARTENAIRES
+  • PHOTOS 41ème GP de MENTON 2013
+  • PHOTOS 42ème GP de MENTON 2014
+  • VIDEOS
+  • CONTACT
+
+Trophée Claude SECQ
+
+Po ...
+...   • Pages
+
+    • ACCUEIL
+    • ARTICLES DE PRESSE
+    • LES LIENS
+    • LES MEMBRES DU BUREAU
+    • LES PARTENAIRES
+    • PHOTOS 41ème GP de MENTON 2013
+    • PHOTOS 42ème GP de MENTON 2014
+    • VIDEOS
+    • CONTACT
+
+©2025 raindrops Flux RSS des articles et Flux RSS des commentaires Thème Raindrops
+--------------------------------------------------
+
+--- SAMPLE 18 [REJECTED] ---
+Stats: Length=872 words
+CONTENT: Poppytalk archive
+  • DIY
+    • General DIYs
+    • DIY Categories
+      • DIY Accessories
+      • DIY Beauty
+      • DIY Clay
+      • DIY Decor
+      • DIY Decoupage
+      • DIY Flowers
+      • DIY Leather
+      • DIY Lighting
+      • DIY Organizing
+      • DIY Outdoor
+      • DIY Paper
+      • DIY  ...
+... graphy hotel style paper goods art home and garden scrapbook collecting fonts tutorials Sunday reading gardening textiles lighting patio time cool decorating trick indoor gardening shopping student art font friday kitchen polaroids typography ikea hack 5 minute DiY
+Copyright © 2021 Poppytalk archive
+--------------------------------------------------
+
+--- SAMPLE 19 [REJECTED] ---
+Stats: Length=934 words
+CONTENT:   • galinavdesign@gmail.com
+  • Коллажи и Портреты
+    • ШКОЛА коллажи
+    • ДЕТСАД коллажи
+    • ОСЕНЬ коллажи
+    • НОВОГОДНИЕ КОЛЛАЖИ
+    • СИМВОЛ ГОДА коллажи
+    • НОВОГОДНЯЯ РАСПРОДАЖА
+    • НОВОГОДНИЕ МУЛЬТФИЛЬМЫ
+    • МАСЛЕНИЦА коллажи
+    • День Св. ВАЛЕНТИНА коллажи
+    • 23 ФЕВРАЛЯ коллаж ...
+... ллажей, шаблоны фотошоп. Купить макеты фотокниг для выпускников школ, ВУЗов, детских садиков. Заказать дизайн школьных виньеток, открыток, календарей, фотокниг.
+
+ПРОСЬБА ВНИМАТЕЛЬНО ЧИТАТЬ ОПИСАНИЕ К КОЛЛАЖАМ, НЕ ВСЕ МНОГОСЛОЙНЫЕ
+
+Авторское право © 2013 - 2023 Art-Photobook.com - ВСЕ ПРАВА ЗАЩИЩЕНЫ.
+--------------------------------------------------
+
+--- SAMPLE 20 [REJECTED] ---
+Stats: Length=529 words
+CONTENT: Thursday, April 17 2025
+  • About
+    • Cubs Insider
+    • Columnists
+      • Evan Altman
+      • Michael Canter
+      • Jon Ferlise
+      • Sean Holland
+  • Facebook
+  • X
+  • LinkedIn
+  • YouTube
+  • Reddit
+  • Instagram
+  • RSS
+  • Menu
+  • CI Newsletter
+  • Spring Training Guide
+  • Shop Cubs Ge ...
+...  a penny more, but you will help us keep the lights on. And for that we thank you!
+
+Cubs Insider © Copyright 2025, All Rights Reserved
+  • Facebook
+  • X
+  • LinkedIn
+  • YouTube
+  • Reddit
+  • Instagram
+  • RSS
+Close
+  • Facebook
+  • X
+  • LinkedIn
+  • YouTube
+  • Reddit
+  • Instagram
+  • RSS
+Close
+--------------------------------------------------
+

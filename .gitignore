@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.pyc
+# venv
+.venv/
+# Jupyter
+.ipynb_checkpoints/
+
+# Training / outputs
+wandb/
+**/wandb/
+runs/
+**/runs/
+logs/
+**/logs/
+output*/
+**/output*/
+checkpoint*/
+**/checkpoint*/
+checkpoints/
+**/checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.safetensors
+
+# Archives / large artifacts
+*.tar
+*.tar.gz
+*.tgz
+*.zip
+*.7z
+*.zst
+
+# Data caches
+.cache/
+**/.cache/
+data/
+**/data/
+assignment4-data/quality_classifier_train_data.txt

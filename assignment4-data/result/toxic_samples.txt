@@ -1,0 +1,354 @@
+Found 152 docs with at least one harmful label. Showing 20 samples.
+
+--- SAMPLE 0 ---
+URL: https://seexxxvideo.fun/search/%E5%88%BA%E9%9D%92%E5%B8%A5%E5%93%A5%E7%9B%B4%E6%92%AD%E5%B9%B9%E5%81%BD%E5%A8%98/
+counts: {'nsfw': 0, 'toxic': 1, 'total': 1}
+
+[BEFORE]
+  Starved Young Porn Sucking XXX Porn Terms of Use DMCA / Copyright Contact Us
+
+2024 © See XXX Video
+
+All rights reserved
+
+[AFTER]
+  Starved Young Porn Sucking XXX Porn Terms of Use DMCA / Copyright Contact Us
+
+2024 © See XXX Video
+
+All rights reserved
+
+------------------------------------------------------------
+
+--- SAMPLE 1 ---
+URL: https://tostripnude.wiki/lookfor/%E5%9B%BD%E5%A4%96%E4%B8%89%E7%BA%A7%E7%89%87%E6%89%8B%E6%9C%BA%E8%A7%86%E9%A2%91/
+counts: {'nsfw': 0, 'toxic': 1, 'total': 1}
+
+[BEFORE]
+ Colleg Estyle Porn Tube Pornp Tube Terms of Use DMCA / Copyright Contact Us
+
+2024 © Strip Nude Porn
+
+All rights reserved
+
+[AFTER]
+ Colleg Estyle Porn Tube Pornp Tube Terms of Use DMCA / Copyright Contact Us
+
+2024 © Strip Nude Porn
+
+All rights reserved
+
+------------------------------------------------------------
+
+--- SAMPLE 2 ---
+URL: http://sovereignstories.org/medford-swingers-personal.html
+counts: {'nsfw': 0, 'toxic': 1, 'total': 1}
+
+[BEFORE]
+ elligent and can hold an intelligent conversation i probably won't find you sexually appealing than physical appearance.
+
+[AFTER]
+ elligent and can hold an intelligent conversation i probably won't find you sexually appealing than physical appearance.
+
+------------------------------------------------------------
+
+--- SAMPLE 3 ---
+URL: https://linia-erotica.ro/tag/xxx/
+counts: {'nsfw': 0, 'toxic': 1, 'total': 1}
+
+[BEFORE]
+ exuala vibrator videochat xxx zone erogene
+
+Copyright © 2025 · Metro Pro Theme on Genesis Framework · WordPress · Log in
+
+[AFTER]
+ exuala vibrator videochat xxx zone erogene
+
+Copyright © 2025 · Metro Pro Theme on Genesis Framework · WordPress · Log in
+
+------------------------------------------------------------
+
+--- SAMPLE 4 ---
+URL: https://www.mta.com.mt/en/file.aspx?f=35061
+counts: {'nsfw': 0, 'toxic': 1, 'total': 1}
+
+[BEFORE]
+ 63 00000 n trailer <] >> startxref 153185 %%EOF xref 0 0 trailer <] /Prev 153185/XRefStm 152463>> startxref 157925 %%EOF
+
+[AFTER]
+ 63 00000 n trailer <] >> startxref 153185 %%EOF xref 0 0 trailer <] /Prev 153185/XRefStm 152463>> startxref 157925 %%EOF
+
+------------------------------------------------------------
+
+--- SAMPLE 5 ---
+URL: https://www.h0-modellbahnforum.de/t332999f54880-Innenliegender-Zahnkranz-selbst-gebaut.html
+counts: {'nsfw': 0, 'toxic': 1, 'total': 1}
+
+[BEFORE]
+ ng
+  • Impressum
+  • FAQ
+  • Mitgliederliste
+  • Wer ist Online?
+
+
+Xobor Einfach ein eigenes Forum erstellen
+Datenschutz
+
+[AFTER]
+ ng
+  • Impressum
+  • FAQ
+  • Mitgliederliste
+  • Wer ist Online?
+
+
+Xobor Einfach ein eigenes Forum erstellen
+Datenschutz
+
+------------------------------------------------------------
+
+--- SAMPLE 6 ---
+URL: https://sexystar.xyz/vixvideo1977692/eva-angelina-sucks-and-gets-ass-and-tits-fucked10/
+counts: {'nsfw': 0, 'toxic': 1, 'total': 1}
+
+[BEFORE]
+  Adorable Babe Porn Dude Ssofa Porn Terms of Use DMCA / Copyright Contact Us
+
+2024 © Sexy Star Porn
+
+All rights reserved
+
+[AFTER]
+  Adorable Babe Porn Dude Ssofa Porn Terms of Use DMCA / Copyright Contact Us
+
+2024 © Sexy Star Porn
+
+All rights reserved
+
+------------------------------------------------------------
+
+--- SAMPLE 7 ---
+URL: https://olafschrader.de/wer-bin-ich-wer-will-ich-sein-warum
+counts: {'nsfw': 0, 'toxic': 1, 'total': 1}
+
+[BEFORE]
+ ZU SPÄT
+JOHNNYS BARITON
+
+Powered by WordPress
+
+All rights reserved © Olaf Schrader Revolution Press Theme by SEOS THEMES
+
+[AFTER]
+ ZU SPÄT
+JOHNNYS BARITON
+
+Powered by WordPress
+
+All rights reserved © Olaf Schrader Revolution Press Theme by SEOS THEMES
+
+------------------------------------------------------------
+
+--- SAMPLE 8 ---
+URL: https://www.ferienwohnung-magazin.de/sehenswuerdigkeiten-magdeburg-a28480.html
+counts: {'nsfw': 0, 'toxic': 1, 'total': 1}
+
+[BEFORE]
+ Pfalz Europa
+Impressum | Datenschutz | Cookie-Einstellungen
+Vermieter Magazin Eigenheim Magazin minimüll Frage & Antwort
+
+[AFTER]
+ Pfalz Europa
+Impressum | Datenschutz | Cookie-Einstellungen
+Vermieter Magazin Eigenheim Magazin minimüll Frage & Antwort
+
+------------------------------------------------------------
+
+--- SAMPLE 9 ---
+URL: https://pornobase.net/vdz_JBJ_horny_lily_bhabhi_roleplay_in_hindi_diwali_special/
+counts: {'nsfw': 0, 'toxic': 1, 'total': 1}
+
+[BEFORE]
+ were not sure what acceptable behavior was. I told my wife.
+
+2022 © Pornobase.net - Indian XXX Videos
+
+2257 DMCA Support
+
+[AFTER]
+ were not sure what acceptable behavior was. I told my wife.
+
+2022 © Pornobase.net - Indian XXX Videos
+
+2257 DMCA Support
+
+------------------------------------------------------------
+
+--- SAMPLE 10 ---
+URL: https://yoonudes.com/gaping/
+counts: {'nsfw': 0, 'toxic': 1, 'total': 1}
+
+[BEFORE]
+ x tube. Find the perfect girls that suit your needs and watch porn videos free.
+  • 2015-2025
+  • Support & Complaints
+×
+
+[AFTER]
+ x tube. Find the perfect girls that suit your needs and watch porn videos free.
+  • 2015-2025
+  • Support & Complaints
+×
+
+------------------------------------------------------------
+
+--- SAMPLE 11 ---
+URL: https://hotbabekiki.bond/vidse/%E8%8C%83%E5%86%B0%E5%86%B0%E4%B8%80%E7%BA%A7%E7%89%B9%E9%BB%84%E5%88%BA%E6%BF%80%E5%A4%A7%E7%89%87/
+counts: {'nsfw': 0, 'toxic': 1, 'total': 1}
+
+[BEFORE]
+ rn XXX Tube View Panties Amateur Sex Terms of Use DMCA / Copyright Contact Us
+
+2024 © Hot Babe Kiki
+
+All rights reserved
+
+[AFTER]
+ rn XXX Tube View Panties Amateur Sex Terms of Use DMCA / Copyright Contact Us
+
+2024 © Hot Babe Kiki
+
+All rights reserved
+
+------------------------------------------------------------
+
+--- SAMPLE 12 ---
+URL: https://www.moebel-thomas.de/earthy-neutrals/
+counts: {'nsfw': 0, 'toxic': 1, 'total': 1}
+
+[BEFORE]
+ Sie hier, um die Cookie-Richtlinie des Datenverarbeiters zu lesen https://policies.google.com/technologies/cookies?hl=en
+
+[AFTER]
+ Sie hier, um die Cookie-Richtlinie des Datenverarbeiters zu lesen https://policies.google.com/technologies/cookies?hl=en
+
+------------------------------------------------------------
+
+--- SAMPLE 13 ---
+URL: https://childrenwithdiabetes.com/wp-content/uploads/Burden-on-Mothers_Print-Out.pdf
+counts: {'nsfw': 0, 'toxic': 1, 'total': 1}
+
+[BEFORE]
+ 000 65535 f 0000000000 65535 f 0000000000 65535 f 0000000000 65535 f 0000000000 65535 f trailer <]>> startxref 116 %%EOF
+
+[AFTER]
+ 000 65535 f 0000000000 65535 f 0000000000 65535 f 0000000000 65535 f 0000000000 65535 f trailer <]>> startxref 116 %%EOF
+
+------------------------------------------------------------
+
+--- SAMPLE 14 ---
+URL: https://nitdgp.ac.in/uploads/7c96c8443b62986b326e318c0f1aa1c2.pdf
+counts: {'nsfw': 0, 'toxic': 1, 'total': 1}
+
+[BEFORE]
+  557933 %%EOF xref 0 0 trailer <<052FED75B2246E4BA371FF380DAA3238>] /Prev 557933/XRefStm 557022>> startxref 565013 %%EOF
+
+[AFTER]
+  557933 %%EOF xref 0 0 trailer <<052FED75B2246E4BA371FF380DAA3238>] /Prev 557933/XRefStm 557022>> startxref 565013 %%EOF
+
+------------------------------------------------------------
+
+--- SAMPLE 15 ---
+URL: https://amaturepornmaster.com/homemade-porn-videos/cheerleader/
+counts: {'nsfw': 0, 'toxic': 1, 'total': 1}
+
+[BEFORE]
+ 025 © amaturepornmaster.com - All rights reserved.
+
+  • Home
+  • Top videos
+  • New videos
+  • All Niches
+  • All Models
+
+[AFTER]
+ 025 © amaturepornmaster.com - All rights reserved.
+
+  • Home
+  • Top videos
+  • New videos
+  • All Niches
+  • All Models
+
+------------------------------------------------------------
+
+--- SAMPLE 16 ---
+URL: https://kredyty-gorzow.pl/video-1bfg97d0/putalocura_-_cajera_zorra_milf_follada_por_torbe
+counts: {'nsfw': 0, 'toxic': 1, 'total': 1}
+
+[BEFORE]
+  3834
+Is being extroverted overrated?
+Is being extroverted overrated?
+2024-07-31 | 5498
+
+kredyty-gorzow.pl © 2022 - 2025
+
+[AFTER]
+  3834
+Is being extroverted overrated?
+Is being extroverted overrated?
+2024-07-31 | 5498
+
+kredyty-gorzow.pl © 2022 - 2025
+
+------------------------------------------------------------
+
+--- SAMPLE 17 ---
+URL: https://www.signalyduse.cz/prozkoumejte-cestu-osobniho-rustu-a-sebeucty-jak-si-nebrat-veci-osobne/
+counts: {'nsfw': 0, 'toxic': 1, 'total': 1}
+
+[BEFORE]
+ to get access to the library of members-only articles.
+  • Registrace
+  • Impresum
+Signály duše © 2025. Powered by Ghost
+
+[AFTER]
+ to get access to the library of members-only articles.
+  • Registrace
+  • Impresum
+Signály duše © 2025. Powered by Ghost
+
+------------------------------------------------------------
+
+--- SAMPLE 18 ---
+URL: https://cn.tootuber.top/naomiis-face-is-the-kings-way-with-thousands-of-people-tracking-the-high-quality-beauty-with-a-peach-butt-and-beautiful-goddess-hiking-wild-battlefield-lemonade-shop-special-service-2.html
+counts: {'nsfw': 0, 'toxic': 1, 'total': 1}
+
+[BEFORE]
+ ео| порно КАЧЕСТВЕННЫХ студий| Секс видео
+Horse Fucks Womanxnxx 18порно xnxxxnxx japaneseAnimal Fuck SexHorse Animal Sex
+
+[AFTER]
+ ео| порно КАЧЕСТВЕННЫХ студий| Секс видео
+Horse Fucks Womanxnxx 18порно xnxxxnxx japaneseAnimal Fuck SexHorse Animal Sex
+
+------------------------------------------------------------
+
+--- SAMPLE 19 ---
+URL: https://ourladyofsorrows-priory.com/sites/default/files/documents/03.31.2019.pdf
+counts: {'nsfw': 0, 'toxic': 1, 'total': 1}
+
+[BEFORE]
+ 14 00000 n trailer <] >> startxref 276960 %%EOF xref 0 0 trailer <] /Prev 276960/XRefStm 275214>> startxref 293220 %%EOF
+
+[AFTER]
+ 14 00000 n trailer <] >> startxref 276960 %%EOF xref 0 0 trailer <] /Prev 276960/XRefStm 275214>> startxref 293220 %%EOF
+
+------------------------------------------------------------
+
+Total samples with harmful content: 152/152
+Harmful content fraction: 1.00

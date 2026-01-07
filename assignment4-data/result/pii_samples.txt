@@ -1,0 +1,858 @@
+Found 9995 docs with at least one replacement. Showing 20 samples.
+
+--- SAMPLE 0 ---
+URL: https://www.aim.md/en/history/
+counts: {'email': 3, 'phone': 0, 'ip': 0, 'total': 3}
+
+[BEFORE]
+ 	
+
+			
+
+		
+
+		
+
+			
+
+				
+
+					
+Adresa: MD-5028, s. Lunga, r-nul Florești
+
+					Tel/Fax: +373 250 41-1-08
+					E-mail: info@aim.md
+				
+
+				
+
+					
+Адрес: MD-5028, ул. Lunga, р-он Florești
+
+					Tel/Fax: +373 250 41-1-08
+					E-mail: info
+
+[AFTER]
+ 	
+
+			
+
+		
+
+		
+
+			
+
+				
+
+					
+Adresa: MD-5028, s. Lunga, r-nul Florești
+
+					Tel/Fax: +373 250 41-1-08
+					E-mail: |||EMAIL_ADDRESS|||
+				
+
+				
+
+					
+Адрес: MD-5028, ул. Lunga, р-он Florești
+
+					Tel/Fax: +373 250 41-1-08
+					E-ma
+
+------------------------------------------------------------
+
+--- SAMPLE 1 ---
+URL: https://www.chigwellfc.co.uk/single-post/u16-tigers
+counts: {'email': 1, 'phone': 0, 'ip': 0, 'total': 1}
+
+[BEFORE]
+ 
+     
+    U12 Falcons Cup Final
+    U12 Falcons Cup Final
+     
+     
+
+    Contact Us
+
+    TEL 07787 533405
+
+    EMAIL chigwellfc@gmail.com
+    • Facebook Clean
+    • Twitter Clean
+    FA.jpg
+
+    Website by lizhawkins.co.uk
+
+    bottom of
+
+[AFTER]
+ 
+     
+    U12 Falcons Cup Final
+    U12 Falcons Cup Final
+     
+     
+
+    Contact Us
+
+    TEL 07787 533405
+
+    EMAIL |||EMAIL_ADDRESS|||
+    • Facebook Clean
+    • Twitter Clean
+    FA.jpg
+
+    Website by lizhawkins.co.uk
+
+    bottom of 
+
+------------------------------------------------------------
+
+--- SAMPLE 2 ---
+URL: http://www.lisalon.net/info/
+counts: {'email': 2, 'phone': 0, 'ip': 0, 'total': 2}
+
+[BEFORE]
+ 
+全力でお手伝いさせていただきます。
+
+サロン概要
+
+【 サロン名 】 LiSalon（リサロン）
+【 所在地 】 大阪府堺市西区鳳南町
+詳細はご予約確定後にご連絡致します。
+【 ＴＥＬ 】 ０５０-７１２５-３２２８
+【 Ｅｍａｉｌ 】 lisalon.118@gmail.com
+【 営業時間 】 １０：００〜１７：００（完全予約制）
+【 営業日 】 土日祝（平日をご希望の方はご相談ください）
+【 駐車場 】 駐車スペースあり
+【 代表者 】 永井 里沙
+【 サービス内容 
+
+[AFTER]
+ 
+全力でお手伝いさせていただきます。
+
+サロン概要
+
+【 サロン名 】 LiSalon（リサロン）
+【 所在地 】 大阪府堺市西区鳳南町
+詳細はご予約確定後にご連絡致します。
+【 ＴＥＬ 】 ０５０-７１２５-３２２８
+【 Ｅｍａｉｌ 】 |||EMAIL_ADDRESS|||
+【 営業時間 】 １０：００〜１７：００（完全予約制）
+【 営業日 】 土日祝（平日をご希望の方はご相談ください）
+【 駐車場 】 駐車スペースあり
+【 代表者 】 永井 里沙
+【 サービス内容 】 
+
+------------------------------------------------------------
+
+--- SAMPLE 3 ---
+URL: https://newshunter.online/chhattisgarh/582197/
+counts: {'email': 1, 'phone': 1, 'ip': 0, 'total': 2}
+
+[BEFORE]
+    Newshunter.online C.G. Office Address- Orrange Hive 6 Floor Office No 603 Mowa Raipur Chhattisgarh Pin 492004 Email: mail.thenewsshunter@gmail.com Mobile Number 9827113715- Newshunter.online M.P. Office Address -House No 24 Shiv Nagar Co
+
+[AFTER]
+    Newshunter.online C.G. Office Address- Orrange Hive 6 Floor Office No 603 Mowa Raipur Chhattisgarh Pin 492004 Email: |||EMAIL_ADDRESS||| Mobile Number |||PHONE_NUMBER|||- Newshunter.online M.P. Office Address -House No 24 Shiv Nagar Colo
+
+------------------------------------------------------------
+
+--- SAMPLE 4 ---
+URL: https://www.mimbarmasjid.com/furniturekayu/tag/desain-jam-hias-kayu-jati-terbaru/
+counts: {'email': 1, 'phone': 2, 'ip': 0, 'total': 3}
+
+[BEFORE]
+ btu : 07.00-16.00 WIB
+Minggu : Libur
+
+Hubungi Kami
+
+
+
+Telpon
+
+085 290 206 219
+
+
+
+Whatsapp
+
+085 726 859 954
+
+
+
+Email
+
+info@bawufurniture.com
+
+
+Chat 24/7 Support
+
+Rekening Kami
+
+BCA : 2471-646-344
+BNI : 0438-976-575
+BRI : 5888-01-000-578-
+
+[AFTER]
+ btu : 07.00-16.00 WIB
+Minggu : Libur
+
+Hubungi Kami
+
+
+
+Telpon
+
+085 290 206 219
+
+
+
+Whatsapp
+
+085 726 859 954
+
+
+
+Email
+
+|||EMAIL_ADDRESS|||
+
+
+Chat 24/7 Support
+
+Rekening Kami
+
+BCA : 2471-646-344
+BNI : 0438-976-575
+BRI : 5888-01-000-578-533
+
+------------------------------------------------------------
+
+--- SAMPLE 5 ---
+URL: https://www.kalsnava.lv/aktualitates/vingrosana-kopa-ar-kristu-kupcu?yearID=2023&monthID=10&page=1&gads=2018&pp=
+counts: {'email': 1, 'phone': 0, 'ip': 0, 'total': 1}
+
+[BEFORE]
+ Kalsnavas pagasta pārvalde
+
+
+Pārupes iela 2,
+Jaunkalsnava, Kalsnavas pagasts, LV 4860,
+Latvija
+
++37120371490,
+kalsnava@madona.lv,
+ 
+ 
+
+Aktualitātes
+
+ 
+ 
+ 
+ 
+ 
+102219
+
+Vingrošana kopā ar Kristu Kupču
+
+
+
+
+ 
+ 
+      Atpakaļ
+
+Aktualit
+
+[AFTER]
+ Kalsnavas pagasta pārvalde
+
+
+Pārupes iela 2,
+Jaunkalsnava, Kalsnavas pagasts, LV 4860,
+Latvija
+
++37120371490,
+|||EMAIL_ADDRESS|||,
+ 
+ 
+
+Aktualitātes
+
+ 
+ 
+ 
+ 
+ 
+102219
+
+Vingrošana kopā ar Kristu Kupču
+
+
+
+
+ 
+ 
+      Atpakaļ
+
+Aktuali
+
+------------------------------------------------------------
+
+--- SAMPLE 6 ---
+URL: https://www.bibleinmylanguage.com/budapest-philharmonic-orchestra-conductor-rico-saccani-felix-mendelssohn-bartholdy-the-hebrides-fingals-cave-overture-symphony-no-3-scottish-a-minor-audio-cd/
+counts: {'email': 0, 'phone': 8, 'ip': 0, 'total': 8}
+
+[BEFORE]
+ null
+Menu
+Bible in My Language
+  • Currency: USD
+    • US Dollars (USD)
+  • 443-681-5393
+  • Call Us443-681-5393
+  • Compare
+  • Gift Certificates
+  • Account
+  • Wish Lists
+  • Viewed
+  • Cart
+  
+
+[AFTER]
+ null
+Menu
+Bible in My Language
+  • Currency: USD
+    • US Dollars (USD)
+  • |||PHONE_NUMBER|||
+  • Call Us443-681-5393
+  • Compare
+  • Gift Certificates
+  • Account
+  • Wish Lists
+  • Viewed
+  • C
+
+------------------------------------------------------------
+
+--- SAMPLE 7 ---
+URL: https://riococo.es/contactar/
+counts: {'email': 2, 'phone': 0, 'ip': 0, 'total': 2}
+
+[BEFORE]
+  el producto y aclarar cualquier duda sobre los beneficios de la producción sobre sustratos de coco.
+
+(+34) 627 353 377
+dfernandez@riococo.es
+Descubre Riococo
+
+Contáctanos para conocer con más detalle el producto y aclarar cualquier duda so
+
+[AFTER]
+  el producto y aclarar cualquier duda sobre los beneficios de la producción sobre sustratos de coco.
+
+(+34) 627 353 377
+|||EMAIL_ADDRESS|||
+Descubre Riococo
+
+Contáctanos para conocer con más detalle el producto y aclarar cualquier duda sobr
+
+------------------------------------------------------------
+
+--- SAMPLE 8 ---
+URL: https://www.inclutopia.com.br/l/ensino-hibrido-como-ajudar-meu-filho-com-deficiencia-ou-autismo-a-se-organizar/
+counts: {'email': 1, 'phone': 0, 'ip': 0, 'total': 1}
+
+[BEFORE]
+ CAO EM INCLUSAO ESCOLAR LTDA
+
+CNPJ - 32.337.256/0001-85
+
+Política de Privacidade
+Termos e Condições
+
+Sobre nós
+
+E-mail: contato@inclutopia.com.br
+
+Telefone: 11 95956-5945
+
+Cookies
+Utilizamos cookies para permitir o funcionamento adequado e 
+
+[AFTER]
+ CAO EM INCLUSAO ESCOLAR LTDA
+
+CNPJ - 32.337.256/0001-85
+
+Política de Privacidade
+Termos e Condições
+
+Sobre nós
+
+E-mail: |||EMAIL_ADDRESS|||
+
+Telefone: 11 95956-5945
+
+Cookies
+Utilizamos cookies para permitir o funcionamento adequado e a segu
+
+------------------------------------------------------------
+
+--- SAMPLE 9 ---
+URL: https://tunersedge.com.au/products/cvr-proflo-extreme-55-gpm-electric-water-pump-suit-chev-ls-black-anodised-cvr8400bk
+counts: {'email': 1, 'phone': 0, 'ip': 0, 'total': 1}
+
+[BEFORE]
+ stop quicker, and make your vehicle look good in the process.
+
+Call us on +61 (03) 9354 6666 or +61 411 969 609
+
+Email: sales@tunersedge.com.au
+
+Come see us at 4/35 Catherine Street, Coburg North 3058
+
+HELP CENTRE
+
+  • RETURNS & MISSING / D
+
+[AFTER]
+ stop quicker, and make your vehicle look good in the process.
+
+Call us on +61 (03) 9354 6666 or +61 411 969 609
+
+Email: |||EMAIL_ADDRESS|||
+
+Come see us at 4/35 Catherine Street, Coburg North 3058
+
+HELP CENTRE
+
+  • RETURNS & MISSING / DAMAG
+
+------------------------------------------------------------
+
+--- SAMPLE 10 ---
+URL: https://www.uccronline.it/tag/scaraffia/
+counts: {'email': 1, 'phone': 0, 'ip': 0, 'total': 1}
+
+[BEFORE]
+ toria
+    • Fede e Storicità
+    • Fede e Laicismo
+    • Bioetica
+    • Ultimissime
+    • Contatti
+
+    Recapiti
+
+    • redazione@uccronline.it
+    • Privacy Policy
+    • Cookie Policy
+
+    © 2024 UCCR On
+
+[AFTER]
+ toria
+    • Fede e Storicità
+    • Fede e Laicismo
+    • Bioetica
+    • Ultimissime
+    • Contatti
+
+    Recapiti
+
+    • |||EMAIL_ADDRESS|||
+    • Privacy Policy
+    • Cookie Policy
+
+    © 2024 UCCR Online
+
+------------------------------------------------------------
+
+--- SAMPLE 11 ---
+URL: https://kvepaluanalogai.lt/1317-lattafa-yara-aromato-purskiamas-namu-kvapas-300ml.html
+counts: {'email': 1, 'phone': 0, 'ip': 0, 'total': 1}
+
+[BEFORE]
+ River Mall Kaunas
+
+      Darbo laikas Kaunas: I-VII 10-21
+
+    • Susisiekite dabar: +370 (645) 70 934
+    • El. paštas: info@kvepaluanaloga
+
+[AFTER]
+ River Mall Kaunas
+
+      Darbo laikas Kaunas: I-VII 10-21
+
+    • Susisiekite dabar: +370 (645) 70 934
+    • El. paštas: |||EMAIL_ADDRESS|||
+
+------------------------------------------------------------
+
+--- SAMPLE 12 ---
+URL: https://www.marchinghealth.com/tag/college-marching-band/
+counts: {'email': 1, 'phone': 0, 'ip': 0, 'total': 1}
+
+[BEFORE]
+ Drum Corps
+  • Getting Real About the Post-Drum Corps Blues
+
+Recent Comments
+
+No comments to show.
+
+Get In Touch
+
+email
+elliot@marchinghealth.com
+address
+1027 South Pendleton Street, Suite B, Box 1 South Carolina
+Book A Clinic
+
+Social
+
+Face
+
+[AFTER]
+ Drum Corps
+  • Getting Real About the Post-Drum Corps Blues
+
+Recent Comments
+
+No comments to show.
+
+Get In Touch
+
+email
+|||EMAIL_ADDRESS|||
+address
+1027 South Pendleton Street, Suite B, Box 1 South Carolina
+Book A Clinic
+
+Social
+
+Facebook I
+
+------------------------------------------------------------
+
+--- SAMPLE 13 ---
+URL: https://duramaq.com/1551560468.htm
+counts: {'email': 0, 'phone': 2, 'ip': 0, 'total': 2}
+
+[BEFORE]
+ めご了承ください。
+    新品 7055円 (税込)
+    数量
+    null
+    エポスカード新規ご入会後、JPでスグに使える期間限定5,000円OFFクーポンプレゼント！
+
+    商品詳細情報
+
+    管理番号 新品 ：1551560468
+    中古 ：1551560468-1     		メーカー 010265333809 発売日 2025-04-04 21:57 定価 8300円
+    カテゴリ
+    1. メンズ
+    2. バッグ
+   
+
+[AFTER]
+ めご了承ください。
+    新品 7055円 (税込)
+    数量
+    null
+    エポスカード新規ご入会後、JPでスグに使える期間限定5,000円OFFクーポンプレゼント！
+
+    商品詳細情報
+
+    管理番号 新品 ：|||PHONE_NUMBER|||
+    中古 ：|||PHONE_NUMBER|||-1     		メーカー 010265333809 発売日 2025-04-04 21:57 定価 8300円
+    カテゴリ
+    1. メン
+
+------------------------------------------------------------
+
+--- SAMPLE 14 ---
+URL: https://pickyourjersey.com/Cheap_NFL/mens-las-vegas-raiders-nike-black-vapor-untouchable-custom-elite-jersey/
+counts: {'email': 1, 'phone': 0, 'ip': 0, 'total': 1}
+
+[BEFORE]
+ er Horsted Nike Black Game Player Jersey
+
+$169.99 Original price was: $169.99.$36.99Current price is: $36.99.
+
+
+Email:  gracevip95@gmail.com
+Address:  2336 W 208TH ST, TORRANCE, CA, 29420
+Business Hours:  Mon-Sat: 9am-11pm  Sunday: 11am-5pm
+
+[AFTER]
+ er Horsted Nike Black Game Player Jersey
+
+$169.99 Original price was: $169.99.$36.99Current price is: $36.99.
+
+
+Email:  |||EMAIL_ADDRESS|||
+Address:  2336 W 208TH ST, TORRANCE, CA, 29420
+Business Hours:  Mon-Sat: 9am-11pm  Sunday: 11am-5pm
+
+
+------------------------------------------------------------
+
+--- SAMPLE 15 ---
+URL: https://dynamar.com/product/merrycorn-pte-ltd/
+counts: {'email': 1, 'phone': 0, 'ip': 0, 'total': 1}
+
+[BEFORE]
+  View Read more
+
+Find us on:
+
+Linkedin
+
+Dynamar B.V.
+
+Robijnstraat 74,
+1812 RB Alkmaar,
+The Netherlands
++31 72 514 7400 Info@dynamar.com
+
+Risk Appraisal Reports
+
+Reports
+Database
+Request a new report
+Sign up for New Reports List
+
+Insights &
+
+[AFTER]
+  View Read more
+
+Find us on:
+
+Linkedin
+
+Dynamar B.V.
+
+Robijnstraat 74,
+1812 RB Alkmaar,
+The Netherlands
++31 72 514 7400 |||EMAIL_ADDRESS|||
+
+Risk Appraisal Reports
+
+Reports
+Database
+Request a new report
+Sign up for New Reports List
+
+Insight
+
+------------------------------------------------------------
+
+--- SAMPLE 16 ---
+URL: https://bookstore.lattecreative.com/product-category/natura/animals/?v=813e21682148&view=list
+counts: {'email': 1, 'phone': 0, 'ip': 0, 'total': 1}
+
+[BEFORE]
+ oria
+    • Viaggi
+  • Taccuini
+
+Autore
+
+  • A. Paronuzzi (1)
+  • Marianne Dubuc (1)
+Largo Dino Frisullo.
+00153 Roma
+  • bookstore@lattecreative.com
+  • Instagram
+  • Facebook
+
+Menù
+
+  • Home
+  • Chi siamo
+  • Libri
+  • Autori
+  • Case editr
+
+[AFTER]
+ oria
+    • Viaggi
+  • Taccuini
+
+Autore
+
+  • A. Paronuzzi (1)
+  • Marianne Dubuc (1)
+Largo Dino Frisullo.
+00153 Roma
+  • |||EMAIL_ADDRESS|||
+  • Instagram
+  • Facebook
+
+Menù
+
+  • Home
+  • Chi siamo
+  • Libri
+  • Autori
+  • Case editrici
+  • 
+
+------------------------------------------------------------
+
+--- SAMPLE 17 ---
+URL: https://mpee.hu/kozossegi-ember-nem-futhat-maganyosan/
+counts: {'email': 1, 'phone': 0, 'ip': 0, 'total': 1}
+
+[BEFORE]
+ 
+1026 Herman Ottó u. 40 fszt. 2
+Bankszámlaszám: OTP – 11713005-20419826
+Adószám:18081857-1-41
+Elérhetőség
+0620 387 3358
+iroda@mpee.hu
+Facebook
+Youtube
+Keresés
+
+[AFTER]
+ 
+1026 Herman Ottó u. 40 fszt. 2
+Bankszámlaszám: OTP – 11713005-20419826
+Adószám:18081857-1-41
+Elérhetőség
+0620 387 3358
+|||EMAIL_ADDRESS|||
+Facebook
+Youtube
+Keresés
+
+------------------------------------------------------------
+
+--- SAMPLE 18 ---
+URL: https://www.perfectsmilesdentistreston.com/tag/dental-med-spa-treatments-in-reston-va/
+counts: {'email': 0, 'phone': 5, 'ip': 0, 'total': 5}
+
+[BEFORE]
+  Dental Emergency
+    • Top Invisalign Provider
+  • MedSpa
+  • Before and After
+  • Patient Forms
+  • Contact
+
+Call Us
+
+(703) 982-7355
+
+Get Appointment
+
+Call Us
+
+(703) 982-7355
+
+Get Appointment
+Menu
+  • Home
+  • About Us
+    • Meet The Prov
+
+[AFTER]
+  Dental Emergency
+    • Top Invisalign Provider
+  • MedSpa
+  • Before and After
+  • Patient Forms
+  • Contact
+
+Call Us
+
+|||PHONE_NUMBER|||
+
+Get Appointment
+
+Call Us
+
+|||PHONE_NUMBER|||
+
+Get Appointment
+Menu
+  • Home
+  • About Us
+    • Meet 
+
+------------------------------------------------------------
+
+--- SAMPLE 19 ---
+URL: https://www.zhaocar.com/neizhan/225.html
+counts: {'email': 2, 'phone': 3, 'ip': 0, 'total': 5}
+
+[BEFORE]
+ 租车、婚庆租车、企业用车、会议用车、机场接送、超跑静展、月租日租、二手车买卖、剧组用车。
+
+
+车型：超级跑车、各种高中低轿车、越野、商务、可日租、月租、市区内免费送车上门服务，24小时为您服务,一个电话，一站式服务！
+
+
+厦门租车平台热线：18695699995
+
+
+门店地址：厦门市湖里区后坑后社475号
+
+
+厦门租车公司网址：https://www.zhaocar.com
+
+
+上一篇文章 下一篇文章
+
+文章分类
+
+厦门生活通
+
+最新站内文章
+
+厦门十大特色美食小吃
+厦门生活
+
+[AFTER]
+ 租车、婚庆租车、企业用车、会议用车、机场接送、超跑静展、月租日租、二手车买卖、剧组用车。
+
+
+车型：超级跑车、各种高中低轿车、越野、商务、可日租、月租、市区内免费送车上门服务，24小时为您服务,一个电话，一站式服务！
+
+
+厦门租车平台热线：|||PHONE_NUMBER|||
+
+
+门店地址：厦门市湖里区后坑后社475号
+
+
+厦门租车公司网址：https://www.zhaocar.com
+
+
+上一篇文章 下一篇文章
+
+文章分类
+
+厦门生活通
+
+最新站内文章
+
+厦门十大特色美食
+
+------------------------------------------------------------
+

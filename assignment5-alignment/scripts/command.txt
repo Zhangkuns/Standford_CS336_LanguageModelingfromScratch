@@ -1,0 +1,18 @@
+python scripts/grpo.py \
+--base_model ./grpo_experiment_run1/latest \
+--train_data_path data/sft-cs336-assign5-datasets/sft-reason/sft_gpt-oss-120b_filtered.jsonl \
+--val_data_path data/sft-cs336-assign5-datasets/sft-reason/val.jsonl \
+--output_dir ./grpo_experiment_run1 \
+--n_grpo_steps 200 \
+--rollout_batch_size 256 \
+--group_size 8 \
+--train_batch_size 256 \
+--grad_accum_steps 64 \
+--lr 1e-5 \
+--epochs_per_rollout_batch 1 \
+--loss_type grpo_clip \
+--use_std_normalization \
+--eval_every_steps 10 \
+--seed 42
+
+44.827g显存
